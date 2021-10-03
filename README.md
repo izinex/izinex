@@ -7,7 +7,7 @@ Recently I have finished a Bootcamp with Springboard on Data Science and am exci
 Skills: PYTHON / JUPYTER NOTEBOOK / SQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on Data Visualization of NBA players and their statistics. I want to be able to bring their stats into life. 
-- 🌱 I’m currently learning Everything and Anything Data related 
+- 🌱 I’m currently learning Bayesian Probability Theory and its applications on machine learning, Deep learning and Computer Vision. 
 - 👯 I’m looking to collaborate on Projects with Deep Learning and Computer Vision 
 - 🤔 I’m looking for help with Employment  
 - 💬 Ask me about Anything 

@@ -17,6 +17,7 @@ Some of my favorites projects and work I have done are:
 - [Queens House Prediction]
 
 Skills: PYTHON / JUPYTER NOTEBOOK / SQL / JS / HTML / CSS
+<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izinex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pizon-shetu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pizonks//)  
 
 [Queens House Prediction]: https://github.com/izinex/Machine-Learning-and-R-Programming/blob/master/final%20project/FinalProjectPaper-converted.pdf

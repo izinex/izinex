@@ -1,5 +1,5 @@
-### Hi there 👋,  Hi there 👋 I am Pizon
-![Hi there 👋,  Hi there 👋 I am Pizon](https://github.com/izinex/izinex/blob/main/cool-background.png)
+### Hi there 👋 I am Pizon
+![Hi there 👋 I am Pizon](https://github.com/izinex/izinex/blob/main/cool-background.png)
 #### I am a Data analyst and an aspiring Data Scientist and Machine Learning Engineer. Welcome to my GitHub, here you will find various works I have done in the past and are currently working on.
 
 

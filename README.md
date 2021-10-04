@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pizon
 ![Hi there 👋 I am Pizon](https://github.com/izinex/izinex/blob/main/banner.png)
-#### I am a Data analyst and an aspiring Data Scientist and Machine Learning Engineer. Welcome to my GitHub, here you will find various works I have done in the past and are currently working on.
+#### I am a Data analyst and an aspiring Data Scientist and Machine Learning Engineer. Welcome to my GitHub, here you will find various projects I have done in the past and are currently working on.
 
 
 Recently I have finished a Bootcamp with Springboard on Data Science and am excited to work with all things DATA. I am a graduate of Queens College with a double major in Computer Science and Applied Mathematics. I started my career with a small start-up as a front-end web developer and was unpleased with the work I was doing, so I decided to pursue a career in big data. Unfortunately, as I started my Bootcamp my mother fell ill with her heart condition, as she had open heart surgery in 2019. Helping her through her woes and juggling the Bootcamp was quite challenging but a great learning experience. My first love is basketball, and my curiosity about data science came from wanting to bring my passion for basketball with the analytics of data science.

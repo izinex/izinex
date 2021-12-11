@@ -8,7 +8,7 @@ Recently I have finished a Bootcamp with Springboard on Data Science and am exci
 - 🔭 I’m currently working on Data Visualization of NBA players and their statistics. I want to be able to bring their stats into life. 
 - 🌱 I’m currently learning Bayesian Probability Theory and its applications on machine learning, Deep learning and Computer Vision. 
 - 👯 I’m looking to collaborate on Projects with Deep Learning and Computer Vision 
-- 🤔 I’m looking for help with Employment  
+- 🤔 I’m looking for help with Employment here is a link to my [resume]   
 - 💬 Ask me about Anything 
 - 📫 How to reach me: pizon.skhan@gmail.com 
 
@@ -20,6 +20,7 @@ Skills: PYTHON / JUPYTER NOTEBOOK / SQL / JS / HTML / CSS
 <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izinex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pizon-shetu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pizonks//)  
 
+[resume]: https://github.com/izinex/izinex/blob/main/PizonShetuResume.pdf
 [Queens House Prediction]: https://github.com/izinex/Machine-Learning-and-R-Programming/blob/master/final%20project/FinalProjectPaper-converted.pdf
 [New York Housing Market]: https://github.com/izinex/Springboard-Data-Science/blob/master/Capstone%202%20-%20NYC%20Housing%20Prediction/NYC_Housing_Report.pdf
 

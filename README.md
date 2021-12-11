@@ -14,6 +14,7 @@ Recently I have finished a Bootcamp with Springboard on Data Science and am exci
 
 Some of my favorites projects and work I have done are:
 - [New York Housing Market]
+- [Classification of Birds]
 - [Queens House Prediction]
 
 Skills: PYTHON / JUPYTER NOTEBOOK / SQL / JS / HTML / CSS
@@ -23,6 +24,7 @@ Skills: PYTHON / JUPYTER NOTEBOOK / SQL / JS / HTML / CSS
 [resume]: https://github.com/izinex/izinex/blob/main/PizonShetuResume.pdf
 [Queens House Prediction]: https://github.com/izinex/Machine-Learning-and-R-Programming/blob/master/final%20project/FinalProjectPaper-converted.pdf
 [New York Housing Market]: https://github.com/izinex/Springboard-Data-Science/blob/master/Capstone%202%20-%20NYC%20Housing%20Prediction/NYC_Housing_Report.pdf
+[Classification of Birds]: https://github.com/izinex/Springboard-Data-Science/blob/master/Capstone%203/Classification_of_Birds_Report.pdf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izinex)](https://github.com/anuraghazra/github-readme-stats)
 

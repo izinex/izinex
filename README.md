@@ -9,7 +9,7 @@ Recently I have finished a Bootcamp with Springboard on Data Science and am exci
 - 🌱 I’m currently learning Bayesian Probability Theory and its applications on machine learning, Deep learning and Computer Vision. 
 - 👯 I’m looking to collaborate on Projects with Deep Learning and Computer Vision   
 - 💬 Ask me about Anything 
-- 📫 How to reach me: pizon.skhan@gmail.com 
+- 📫 How to reach me: pizon.skhan@gmail.com and here is my [resume] if you were curious :)
 
 Some of my favorites projects and work I have done are:
 - [New York Housing Market]

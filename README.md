@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pizon
 ![Hi there 👋 I am Pizon](https://github.com/izinex/izinex/blob/main/banner.png)
-#### I am a Data analyst and an aspiring Data Scientist and Machine Learning Engineer. Welcome to my GitHub, here you will find various projects I have done in the past and are currently working on.
+#### I am a Data Scientist and aspiring Machine Learning Engineer. Welcome to my GitHub, here you will find various projects I have done in the past and are currently working on.
 
 
 Recently I have finished a Bootcamp with Springboard on Data Science and am excited to work with all things DATA. I am a graduate of Queens College with a double major in Computer Science and Applied Mathematics. I started my career working as a Data Analyst while at school, cleaning and working with food/drink orders, I learned how to manage, clean, and visualize insights into what leads to customer acquisition. After graduation I started working for a small start-up as a Junior Data Scientist and learned how to mine data and model to properly implement real life actions that would lead to customer growth. My first love is basketball, and my curiosity about data science came from wanting to bring my passion for basketball with the analytics of data science.
@@ -9,7 +9,7 @@ Recently I have finished a Bootcamp with Springboard on Data Science and am exci
 - 🌱 I’m currently learning Bayesian Probability Theory and its applications on machine learning, Deep learning and Computer Vision. 
 - 👯 I’m looking to collaborate on Projects with Deep Learning and Computer Vision   
 - 💬 Ask me about Anything 
-- 📫 How to reach me: pizon.skhan@gmail.com 
+- 📫 How to reach me: pizon.skhan@gmail.com and here is my [resume] if you were curious :)
 
 Some of my favorites projects and work I have done are:
 - [New York Housing Market]

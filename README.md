@@ -5,7 +5,7 @@
 
 Recently I have finished a Bootcamp with Springboard on Data Science and am excited to work with all things DATA. I am a graduate of Queens College with a double major in Computer Science and Applied Mathematics. I started my career working as a Data Analyst while at school, cleaning and working with food/drink orders, I learned how to manage, clean, and visualize insights into what leads to customer acquisition. After graduation I started working for a small start-up as a Junior Data Scientist and learned how to mine data and model to properly implement real life actions that would lead to customer growth. My first love is basketball, and my curiosity about data science came from wanting to bring my passion for basketball with the analytics of data science.
 
-- 🔭 I’m currently working at Whiterock AI as a Data Scientist, Whiterock AI is a innovative start-up which attempts to find meaningful insights and market trends in real-estate using machine-learning to provide the public a competitive edge for any real-estate decisions. 
+- 🔭 I’m currently working at Webster Bank as a Data Scientist, where I do quantative analysis on financial data. Currently I am working on a big project where we are scraping key elements from historical loan documents using NLP, and OCR technologies. 
 - 🌱 I’m currently learning Bayesian Probability Theory and its applications on machine learning, Deep learning and Computer Vision. 
 - 👯 I’m looking to collaborate on Projects with Deep Learning and Computer Vision   
 - 💬 Ask me about Anything 
